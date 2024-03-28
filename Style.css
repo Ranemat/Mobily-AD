@@ -9,8 +9,9 @@
   .text {
     display:inline-block; 
     margin-left: 90px;
-    font-weight: bold;
-    color:darkcyan;
+    font-weight:bolder;
+    color:#474740;
+    font-size: 20px;;
     
   }
 .footer {
